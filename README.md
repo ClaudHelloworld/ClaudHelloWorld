@@ -12,6 +12,10 @@ Welcome to my profile! My name is Claud and I'm a programming student.
 </p>
 
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudHelloWorld&show_icons=true&layout=compact&card_width=445px&theme=midnight-purple" />
+</p>
+
 /*//### Hi there 👋
 
 
