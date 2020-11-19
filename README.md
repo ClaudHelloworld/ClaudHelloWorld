@@ -12,12 +12,12 @@ Welcome to my profile! My name is Claud and I'm a programming student.
 </p>
 
 
-### Hi there 👋
+/*//### Hi there 👋
 
 
 
-**ClaudHelloworld/ClaudHelloWorld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+ClaudHelloworld/ClaudHelloWorld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*/
 Here are some ideas to get you started:
 
  🔭 I’m currently working on not working :(
