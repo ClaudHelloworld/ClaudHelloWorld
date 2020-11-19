@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
+
 **ClaudHelloworld/ClaudHelloWorld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on not working :(
-- 🌱 I’m currently learning C#, C++, Javascript, Php.
+ 🔭 I’m currently working on not working :(
+ 🌱 I’m currently learning C#, C++, Javascript, Php.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
