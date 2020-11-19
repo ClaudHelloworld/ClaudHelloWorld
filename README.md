@@ -8,7 +8,7 @@ Welcome to my profile! My name is Claud and I'm a programming student.
 <hr>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ClaudHelloWorld&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ClaudHelloWorld&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical" />
 </p>
 
 
