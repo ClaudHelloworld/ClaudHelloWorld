@@ -16,20 +16,16 @@ Welcome to my profile! My name is Claud and I'm a programming student.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudHelloWorld&show_icons=true&layout=compact&card_width=445px&theme=midnight-purple" />
 </p>
 
-/*//### Hi there 👋
+Olá Amigos 👋
 
 
 
-ClaudHelloworld/ClaudHelloWorld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-*/
-Here are some ideas to get you started:
 
- 🔭 I’m currently working on not working :(
+ 🔭 I’m currently, not working :(
  🌱 I’m currently learning C#, C++, Javascript, Php.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👯 I’m looking to collaborate on Front-end/Design.
+- 🤔 I’m looking for help with Jobs :(
+- 💬 Ask me about anything
+- 📫 How to reach me: https://www.linkedin.com/in/claudinei-gomes-3735741b2/
+- ⚡ Fun fact: https://bongo.cat/
 
