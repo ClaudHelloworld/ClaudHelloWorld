@@ -21,8 +21,8 @@ Olá Amigos 👋
 
 
 
- 🔭 I’m currently, not working :(
- 🌱 I’m currently learning C#, C++, Javascript, Php.
+ 🔭 I’m currently, working with javascript, html4, drupal 7, css3
+ 🌱 I’m currently learning React, Javascript, Php.
 - 👯 I’m looking to collaborate on Front-end/Design.
 - 🤔 I’m looking for help with Jobs :(
 - 💬 Ask me about anything
