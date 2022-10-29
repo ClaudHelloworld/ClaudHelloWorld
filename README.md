@@ -1,5 +1,5 @@
 
-<h1 align="center">ClaudHelloWorld!</h1>
+<h1 align="center">Hi! i ´m Claud Gomes!</h1>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ClaudHelloWorld)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/claudinei-gomes-3735741b2/)
